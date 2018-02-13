@@ -23,7 +23,7 @@
 
 namespace AuroraFW {
 	namespace Parser {
-		class AFW_EXPORT ModularParser {
+		class AFW_API ModularParser {
 		public:
 			
 		};

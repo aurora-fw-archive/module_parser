@@ -21,7 +21,7 @@
 
 namespace AuroraFW {
 	namespace Parser {
-		class AFW_EXPORT Lexer {
+		class AFW_API Lexer {
 		public:
 			static bool isSpaceChar(const char );
 			static bool isOperator(const char );

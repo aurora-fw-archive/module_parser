@@ -24,7 +24,7 @@
 namespace AuroraFW {
 	namespace Parser {
 		template<typename iter>
-		class AFW_EXPORT ModularToken {
+		class AFW_API ModularToken {
 			typedef typename iter::val_T::char_T char_T;
 			typedef typename iter::val_T::iter_T iter_T;
 			typedef std::basic_string<char_T> string;
